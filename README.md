@@ -1,5 +1,6 @@
+<h2><img src="Images/cover.png" width="1200" height="300"></h2> 
+
 <div align="center">  
-<a><img src="Images/cover.png" width="1200" height="400"></a> 
 <h3>Hello World! <a><img src="Images/hello.gif" width="40"></a> 
 <br>My name is Angesh Chanderdip
 <br>I'm a Student Software Engineer 
