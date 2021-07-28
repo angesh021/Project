@@ -25,4 +25,5 @@ BugZap - https://youtu.be/XkqoX-LaiKw
 E-Library - https://youtu.be/jONxI65WpsA
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<angesh021>&theme=<THEME_NAME>" />
+[![Angesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=angesh021)](https://github.com/angesh021/github-readme-stats)
+
