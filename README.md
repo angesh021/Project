@@ -5,7 +5,7 @@
 <br>I'm a Student Software Engineer 
 <br>3rd Year in Computer Science
 </h3>
-
+<hr width="50%" style="height:5px;">
 
 
 # Project
