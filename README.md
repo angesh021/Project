@@ -1,5 +1,5 @@
 <div align="center">  
-<h3>Hello World! 👋🤓<br>My name is Angesh Chanderdip<br>I'm a Student Software Engineer <br>3rd Year in Computer Science</h3>
+<h3>Hello World! 👋🤓<a<img src="images/hello.gif" width="100"></a><br>My name is Angesh Chanderdip<br>I'm a Student Software Engineer <br>3rd Year in Computer Science</h3>
 
 
 
