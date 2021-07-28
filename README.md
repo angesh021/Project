@@ -25,4 +25,4 @@ BugZap - https://youtu.be/XkqoX-LaiKw
 E-Library - https://youtu.be/jONxI65WpsA
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<angesh021>&theme=<THEME_NAME>" />
