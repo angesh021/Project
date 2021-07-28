@@ -5,6 +5,7 @@
 <br>My name is Angesh Chanderdip
 <br>I'm a Student Software Engineer 
 <br>3rd Year in Computer Science
+<br><a href="https://www.linkedin.com/in/angesh-chanderdip-098388208"><img src="Images/linkedln.png" width="40"></a>
 </h3>
 <hr width="50%" style="height:5px;">
 
