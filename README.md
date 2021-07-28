@@ -23,3 +23,6 @@ Watch final product of the following projects:
 BugZap - https://youtu.be/XkqoX-LaiKw
 
 E-Library - https://youtu.be/jONxI65WpsA
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
